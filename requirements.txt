@@ -1,11 +1,9 @@
 amqp
 asgiref
 async-timeout
-beautifulsoup4
 billiard
 boto3
 botocore
-bs4
 celery
 certifi
 cffi
@@ -14,6 +12,7 @@ click
 click-didyoumean
 click-plugins
 click-repl
+cloudinary
 colorama
 coreapi
 coreschema
@@ -24,6 +23,7 @@ distlib
 dj-database-url
 Django
 django-celery-beat
+django-cloudinary-storage
 django-cors-headers
 django-crispy-forms
 django-environ
@@ -36,8 +36,6 @@ djongo
 djoser
 drf-yasg
 filelock
-Flask
-Flask-SQLAlchemy
 futures
 goslate
 greenlet
@@ -78,7 +76,6 @@ s3transfer
 six
 social-auth-app-django
 social-auth-core
-soupsieve
 SQLAlchemy
 sqlparse
 typing_extensions
